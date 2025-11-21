@@ -1,0 +1,56 @@
+[
+{
+    "nome":"Befunge",
+    "descrição":"Uma linguagem de programação esotérica cujo nome em inglês seria o erro ortográfico da palavra <i>before</i>, ou <i>antes</i>, em inglês.",
+    "ano": 1993,
+    "link":"https://pt.wikipedia.org/wiki/Befunge"
+},
+{
+    "nome":"Whitespace",
+    "descrição":"Uma linguagem de programação esotérica cujo pode somente conter espaços em branco (espaços, tabulações e quebras de linha).",
+    "ano": 2002,
+    "link":"https://pt.wikipedia.org/wiki/Whitespace"
+},
+{
+    "nome":"INTERCAL",
+    "descrição":"Abreviação de 'Compiler Language With No Pronounceable Acronym', foi criada em 1972 com a intenção de ser completamente diferente de qualquer outra linguagem de programação.",
+    "ano": 1972,
+    "link":"https://pt.wikipedia.org/wiki/INTERCAL"
+},
+{
+    "nome":"Brainfuck",
+    "descrição":"Notável por seu minimalismo extremo, possui apenas oito comandos. Também possui várias substituições, como Morsefuck, Brainfuck 4 humans, Binaryfuck e Ook!, onde os comandos são simplesmente substituídos de acordo com a versão.",
+    "ano": 1993,
+    "link":"https://pt.wikipedia.org/wiki/Brainfuck"
+},
+{
+    "nome":"Malbolge",
+    "descrição":"Nomeada em referência ao oitavo círculo do inferno na obra 'A Divina Comédia' de Dante Alighieri, foi projetada para ser a linguagem de programação mais difícil possível. Acredite se quiser, mas Befunge foi designada para ser <i>incompilável</i>, Brainfuck, o mais <i>compilável</i> possível, e INTERCAL, o mais <i>pequena</i> possível. Nenhuma dessas foi <i>realmente</i> designada para ser difícil. Malbolge foi.",
+    "ano": 1998,
+    "link":"https://pt.wikipedia.org/wiki/Malbolge"
+},
+{
+    "nome":"Shakespeare (SPL)",
+    "descrição":"Uma linguagem de programação cujo código-fonte se assemelha a uma peça de teatro de William Shakespeare. (Eu mesmo já escrevi código nessa liguagem, e posso confirmar que é bem poético se vc se dedicar o suficiente kkk). A limitação mais irritante é que você só pode nomear os personagens de personagens de Shakespeare <i>reais</i>, não fictícios.",
+    "ano": 2001,
+    "link":"https://pt.wikipedia.org/wiki/Shakespeare_(linguagem_de_programa%C3%A7%C3%A3o)"
+},
+{
+    "nome":"Piet",
+    "descrição":"Uma linguagem de programação na qual os programas são bitmaps que se parecem com arte abstrata. O nome é uma homenagem ao pintor holandês Piet Mondrian.",
+    "ano": 2003,
+    "link":"https://pt.wikipedia.org/wiki/Piet_(linguagem_de_programa%C3%A7%C3%A3o)"
+},
+{
+    "nome":"LOLCODE",
+    "descrição":"Uma linguagem de programação esotérica inspirada na linguagem expressa nos 'lolcats', um meme popular da internet.",
+    "ano": 2007,
+    "link":"https://pt.wikipedia.org/wiki/LOLCODE"
+},
+{
+    "nome":"ArnoldC",
+    "descrição":"Uma linguagem de programação imperativa onde os comandos básicos são substituídos por citações famosas de filmes de Arnold Schwarzenegger.",
+    "ano": 2012,
+    "link":"https://github.com/lhartikk/ArnoldC"
+}
+]
